@@ -1,7 +1,6 @@
 <?php namespace Iweb\RestrictionsShopaholic\Classes\Event\ShippingRestriction;
 
 use Event;
-use Iweb\RestrictionsShopaholic\Classes\Restriction\RestrictionByDeniedVendor;
 use Iweb\RestrictionsShopaholic\Classes\Restriction\RestrictionByTotalWeight;
 use Iweb\RestrictionsShopaholic\Classes\Restriction\RestrictionByEmptyOfferWeightSize;
 use Iweb\RestrictionsShopaholic\Classes\Restriction\RestrictionByAllowedReceiverCity;
